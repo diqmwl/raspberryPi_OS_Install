@@ -3,6 +3,8 @@
 
 ### 1. 사전준비
 1) 라즈베리파이 3B+
+
+
 ![raspberry](./doc/raspberry.JPG)
 
 
