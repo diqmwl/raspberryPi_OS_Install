@@ -21,4 +21,6 @@
 2) https://sourceforge.net/projects/win32diskimager/ 에 접속하여 Win32 Disk Imager를 다운 받는다.
 설치가 완료되면 Image File의 폴더 아이콘을 클릭하여 다운받았던 라즈비안 파일을 선택하고
 Device의 SD카드 드라이브를 선택하고 write버튼을 누른다.
+
+
 ![win32](./doc/win32.JPG)
