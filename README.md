@@ -24,3 +24,6 @@ Device의 SD카드 드라이브를 선택하고 write버튼을 누른다.
 
 
 ![win32](./doc/win32.JPG)
+3) 실행
+설치된 SD카드를 라즈베리파이에 넣고 부팅 시키면 실행화면을 볼 수 있습니다.
+![main](./doc/main.JPG)
