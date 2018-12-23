@@ -23,7 +23,7 @@
 Device의 SD카드 드라이브를 선택하고 write버튼을 누른다.
 
 
-![win32](./doc/win32.JPG)
+  ![win32](./doc/win32.JPG)
 
 
 3) 실행
